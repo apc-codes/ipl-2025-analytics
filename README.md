@@ -96,8 +96,8 @@ The project uses the following CSV files:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/apc-codes/ipl-analytics.git
-cd ipl-analysis
+git clone https://github.com/apc-codes/ipl-2025-analytics.git
+cd ipl-2025-analytics
 ```
 
 ---
