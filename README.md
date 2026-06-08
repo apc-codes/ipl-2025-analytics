@@ -95,6 +95,7 @@ The project uses the following CSV files:
 ## 🚀 How to Run
 1.Clck on https://apc-codes-ipl-2025-analytics-app-3ufneb.streamlit.app/
       OR
+
 2. Clone the repository:
 ```bash
 git clone https://github.com/apc-codes/ipl-2025-analytics.git
